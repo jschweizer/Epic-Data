@@ -49,7 +49,10 @@ Interessierte Stellen (RKI, Ämter, Forschungseinrichtungen, technisch versierte
 ## Visualisierung
 Visualisierungswerkzeuge können über den Pool die Ergebnisse von ausgesuchten Aggregatoren abonnieren.
 
-*Beispiel*: Eine Smartphone App für das allgemeine Publikum. Das Dashboard einer Wochenzeitung, Landrats, Bürgermeister, etc.
+*Beispiele*:
+* Eine Smartphone App für das allgemeine Publikum.
+* Das Dashboard einer Wochenzeitung, Landrats, Bürgermeister, etc.
+* Versorger und Krankenhäuser sind permanten auf dem Laufenden, wobei sie genau die Daten und Perspektiven bekommen, die ihren Aufgaben am besten gerecht werden.
 
 ## Technische Umsetzung
 * IPFS für den Datenpool
