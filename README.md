@@ -52,12 +52,12 @@ Visualisierungswerkzeuge können über den Pool die Ergebnisse von ausgesuchten 
 *Beispiele*:
 * Eine Smartphone App für das allgemeine Publikum.
 * Das Dashboard einer Wochenzeitung, Landrats, Bürgermeister, etc.
-* Versorger und Krankenhäuser sind permanten auf dem Laufenden, wobei sie genau die Daten und Perspektiven bekommen, die ihren Aufgaben am besten gerecht werden.
+* Versorger und Krankenhäuser sind permanent auf dem Laufenden, wobei sie genau die Daten und Perspektiven bekommen, die ihren Aufgaben am besten gerecht werden.
 
 ## Technische Umsetzung
 * IPFS für den Datenpool
-* WolkenKit für die lokale Datenverarbeitung (Caching) in Analyse oder Aggregationsknoten.
+* WolkenKit für die lokale Datenverarbeitung (Caching) in Analyse oder Aggregationsknoten
 * JSONLD (linked data) als offenes erweiterbares Dateiformat
 * Adapter können legacy Formate in JSONLD konvertieren
 * Einfach Web UIs zur manuellen Pflege von Daten
-* Adapter binden existierende Analyse Tools (z.B. http://www.aiit.io, http://covidsim.eu) oder Visualisierungen ein.
+* Adapter binden existierende Analyse Tools (z.B. http://www.aiit.io, http://covidsim.eu) oder Visualisierungen ein
